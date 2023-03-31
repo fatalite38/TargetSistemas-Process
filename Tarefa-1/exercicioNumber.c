@@ -4,7 +4,7 @@
 
 int main() {
 	
-//Declarando as vari�veis
+//Declarando as variáveis
 	int i = 13, sum = 0, K = 0;
 
 //Inicializando um loop while 
@@ -17,3 +17,5 @@ int main() {
 printf("A soma e: %d ", sum);
 	return 0;
 }
+
+// A saída será 91
