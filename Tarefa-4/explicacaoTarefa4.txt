@@ -1,0 +1,28 @@
+Distância percorrida pelo carro até o ponto de cruzamento:
+Distância = Velocidade x Tempo
+Distância = 110 km/h x (t horas) ->  110t km
+
+Distância percorrida pelo caminhão até o ponto de cruzamento:
+Distância = 80 km/h x (t + 5/60 horas) (considerando o tempo adicional pelos pedágios)
+Distância = 80(t + 5/60) km -> 80t + 4/3 km
+
+Somar as duas distâncias para encontrar a distância total entre os dois veículos:
+Distância Total = Distância percorrida pelo carro + Distância percorrida pelo caminhão
+Distância Total = 110t + 80t + 4/3 km -> 190t + 4/3 km
+
+Encontrar o tempo t em que os dois veículos se cruzam na rodovia:
+Distância Total = Distância entre as cidades
+190t + 4/3 = 100 km
+190t = 100 - 4/3 km
+190t = 95 2/3 km
+t = 95 2/3 km / 190 -> 0,5026 horas
+
+Agora que temos o tempo de cruzamento, podemos calcular a distância percorrida pelo carro até o ponto de cruzamento:
+Distância = Velocidade x Tempo
+Distância = 110 km/h x 0,5026 horas -> 55,29 km
+
+E a distância percorrida pelo caminhão até o ponto de cruzamento:
+Distância = Velocidade x Tempo
+Distância = 80 km/h x (0,5026 + 5/60 horas) -> Distância = 43,56 km
+
+O carro estará mais próximo da cidade de Ribeirão Preto quando os dois veículos se cruzarem na rodovia.
